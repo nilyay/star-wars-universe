@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planets>
+	<planet>
+		<planetName>Dagobah</planetName>
+		<jedis>
+			<jedi>
+				<jediName>Yoda</jediName>
+				<jediAge>900</jediAge>
+				<lightSaberColor>green</lightSaberColor>
+				<rank>GRAND_MASTER</rank>
+				<strength>24560.32</strength>
+			</jedi>
+			<jedi>
+				<jediName>Luke Skywalker</jediName>
+				<jediAge>53</jediAge>
+				<lightSaberColor>green</lightSaberColor>
+				<rank>KNIGHT</rank>
+				<strength>17659.99</strength>
+			</jedi>
+			<jedi>
+				<jediName>Plo Koon</jediName>
+				<jediAge>385</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>MASTER</rank>
+				<strength>19450.50</strength>
+			</jedi>
+		</jedis>
+	</planet>
+	<planet>
+		<planetName>Coruscant</planetName>
+		<jedis>
+			<jedi>
+				<jediName>Anakin Skywalker</jediName>
+				<jediAge>22</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>KNIGHT</rank>
+				<strength>8709.32</strength>
+			</jedi>
+			<jedi>
+				<jediName>Dooku</jediName>
+				<jediAge>83</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>MASTER</rank>
+				<strength>20300.41</strength>
+			</jedi>
+			<jedi>
+				<jediName>Ki-Adi-Mundi</jediName>
+				<jediAge>74</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>MASTER</rank>
+				<strength>16750.85</strength>
+			</jedi>
+			<jedi>
+				<jediName>Obi-Wan Kenobi</jediName>
+				<jediAge>57</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>KNIGHT</rank>
+				<strength>14750.20</strength>
+			</jedi>
+		</jedis>
+	</planet>
+	<planet>
+		<planetName>HaruunKal</planetName>
+		<jedis>
+			<jedi>
+				<jediName>Mace Windu</jediName>
+				<jediAge>67</jediAge>
+				<lightSaberColor>amethyst</lightSaberColor>
+				<rank>GRAND_MASTER</rank>
+				<strength>19670.90</strength>
+			</jedi>
+			<jedi>
+				<jediName>Ahsoka Tano</jediName>
+				<jediAge>47</jediAge>
+				<lightSaberColor>green</lightSaberColor>
+				<rank>PADAWAN</rank>
+				<strength>9860.21</strength>
+			</jedi>
+			<jedi>
+				<jediName>Shaak Ti</jediName>
+				<jediAge>40</jediAge>
+				<lightSaberColor>blue</lightSaberColor>
+				<rank>MASTER</rank>
+				<strength>14800.40</strength>
+			</jedi>
+		</jedis>
+	</planet>
+</planets>
